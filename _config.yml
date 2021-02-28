@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: Dice Goblin
+description: Complex rolls made easy!
+logo: logo.png
+show_downloads: false
