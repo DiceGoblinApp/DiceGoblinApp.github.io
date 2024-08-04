@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /reports
+permalink: /reports/en/
 ---
 We have decided to donate all of our income from [Dice Goblin](https://apps.apple.com/us/app/dice-goblin/id1543604805) to the [Czech NGO Člověk v tísni (Human in Need)](https://www.peopleinneed.net/what-we-do/humanitarian-aid-and-development/ukraine), which runs a humanitarian aid program for people in Ukraine 🇺🇦.
 
