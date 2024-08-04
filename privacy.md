@@ -1,3 +1,7 @@
+---
+layout: default
+permalink: /privacy
+---
 # Privacy Policy
 
 This Privacy Policy governs the use of the Dice Goblin application (hereafter referred to as 'Application') developed for the App Store digital distribution system. By using the Application, the user declares their agreement with its Privacy Policy.
