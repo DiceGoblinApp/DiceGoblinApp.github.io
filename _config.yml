@@ -3,3 +3,9 @@ title: Dice Goblin
 description: Complex rolls made easy!
 logo: /assets/img/logo.jpg
 show_downloads: false
+plugins:
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
+redirect_from:
+  json: false

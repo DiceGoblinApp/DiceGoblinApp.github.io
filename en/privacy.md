@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /privacy/en/
+redirect_from: /privacy/
 ---
 # Privacy Policy
 
